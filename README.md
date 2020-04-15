@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+## Demo
+![Image](https://github.com/ColinACampbell/mr_wise/blob/master/showcase/Mr%20Wise%20Display.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
