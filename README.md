@@ -1,6 +1,12 @@
 # mr_wise
 
-A new Flutter application.
+A Flutter Application that provides useless advice
+
+## What I learned?
+
+1. How to make REST calls to an API in Flutter.
+2. How to use Futures & Future Builders to update the user interface from an asynchronous event.
+3. How to follow a structure, or architechure for a flutter project, that invloves models & futures.
 
 ## Demo
 ![Image](https://github.com/ColinACampbell/mr_wise/blob/master/showcase/Mr%20Wise%20Display.gif)
